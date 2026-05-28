@@ -1,0 +1,13 @@
+streamlit>=1.35
+scikit-learn>=1.4
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+vaderSentiment
+langdetect
+emoji
+plotly
+joblib
+openpyxl
